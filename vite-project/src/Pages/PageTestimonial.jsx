@@ -1,11 +1,11 @@
 import React from 'react'
-import Testy from '../Component/Testy'
+import Testimonial from '../Component/Testimonial'
 
-const PageTesty = () => {
+const PageTestimonial = () => {
   return (
     <>
     <div>
-        <Testy/>
+        <Testimonial/>
     </div>
     </>
   )
